@@ -1,5 +1,5 @@
 site_name: Jonatan Snyders
 nav:
-  - Home: index.md
-  - About: about.md
+  - In Short: resume_short.md
+  - In Long: resume_long.md
 theme: dracula
