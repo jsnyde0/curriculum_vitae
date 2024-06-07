@@ -3,3 +3,5 @@ nav:
   - In Short: resume_short.md
   - In Long: resume_long.md
 theme: dracula
+site_url: https://jsnyde0.github.io/curriculum_vitae/
+use_directory_urls: False
