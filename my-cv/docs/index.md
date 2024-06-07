@@ -84,4 +84,4 @@ KU Leuven, 2007-2010
 - **Personal**: Strength training, basketball, self-development and cultural exploration.
 
 ## Connect
-[LinkedIn Profile](https://www.linkedin.com/in/jonatansnyders)
+[LinkedIn Profile](https://www.linkedin.com/in/jonatan-snyders/)

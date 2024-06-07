@@ -1,6 +1,6 @@
 site_name: Jonatan Snyders
 nav:
-  - In Short: resume_short.md
+  - In Short: index.md
   - In Long: resume_long.md
 theme: dracula
 site_url: https://jsnyde0.github.io/curriculum_vitae/
