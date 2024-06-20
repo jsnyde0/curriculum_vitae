@@ -59,17 +59,18 @@ Aiming to address significant challenges like climate change and inequality by b
 ```
 
 ## Work Experience
-**Moonbird (Belgium)**  
-*Growth Engineer, Oct 2020 - May 2024*  
+**Growth Engineer**  
+*Moonbird (Belgium), Oct 2020 - May 2024*  
 - Designed and implemented data-driven growth strategies to enhance B2C traction.
 
-**Humainly (Belgium - Venezuela - Nigeria)**  
-*Co-Founder & CEO, May 2018 - March 2020*  
+**Co-Founder & CEO**  
+*Humainly (Belgium - Venezuela - Nigeria), Oct 2015 - March 2020*  
 - Launched a startup providing digital jobs and education in low-income regions.
+- Computer vision consulting
 
-**WebMonks (Belgium)**  
-*Co-Founder & CEO, Oct 2015 - March 2020*  
-- Consulted on advanced machine learning and computer vision projects.
+**Image Processing Researcher**
+*Medical Imaging Research Center (KULeuven), Sept 2012 - Aug 2014*  
+- Python and C++ to advance medical image processing algorithms (MeshMonk)
 
 ## Education
 **Master of Science in Electrical Engineering**  
